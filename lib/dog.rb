@@ -6,6 +6,9 @@ end
   def name
   @new_d_name
 end
+  def bark
+    puts "woof!"
+  end  
 end  
 
 
