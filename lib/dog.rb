@@ -3,7 +3,7 @@ class Dog
     @new_d_name = d_name
 end
 
-  def
+  def name
   @new_d_name
 end
 end  
