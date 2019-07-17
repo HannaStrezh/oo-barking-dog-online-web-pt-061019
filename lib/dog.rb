@@ -1,7 +1,10 @@
 class Dog 
   def name=(d_name)
     @new_d_name = d_name
-  
+end
+
+  def
+  @new_d_name
 end
 end  
 
